@@ -1,16 +1,35 @@
-## Hi there 👋
+## I am Aurko
 
-<!--
-**rkodeny/rkodeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Student — Data Science, Artificial Intelligence & Machine Learning
+At Indian Institute of Technology Guwahati
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+I am a second year undergraduate student focused on building a strong foundation
+in data science and software engineering. Currently practicing DSA daily and
+developing skills in machine learning.
+
+Actively looking for internship opportunities in software development or data science.
+
+---
+
+### Skills
+
+- **Languages:** Python, C++, R, SQL
+- **Areas:** Data Structures & Algorithms, Machine Learning, Data Analysis
+
+---
+
+### Currently Working On
+
+- DSA practice — daily LeetCode solutions (see dsa-practice repo)
+- Machine Learning projects and model building
+
+---
+
+### Connect
+
+- LinkedIn: linkedin.com/in/YOUR-LINKEDIN
+- Email: aurkosp@gmail.com
