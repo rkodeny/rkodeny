@@ -31,5 +31,5 @@ Actively looking for internship opportunities in software development or data sc
 
 ### Connect
 
-- LinkedIn: linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/aurko-palit-28630a303/
 - Email: aurkosp@gmail.com
