@@ -18,7 +18,7 @@ Actively looking for internship opportunities in software development or data sc
 ### Skills
 
 - **Languages:** Python, C++, R, SQL
-- **Areas:** Data Structures & Algorithms, Machine Learning, Data Analysis
+- **Areas:** Data Structures & Algorithms, Machine Learning, Data Analysis, Aritificial Inteligence
 
 ---
 
