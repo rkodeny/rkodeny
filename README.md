@@ -27,6 +27,7 @@ Actively looking for internship opportunities in software development or data sc
 - DSA practice — daily LeetCode solutions (see dsa-practice repository)
 - Machine Learning projects, model building
 - Reseaarch Paper reading and analysis
+- Networking with similar domain people 
 
 ---
 
